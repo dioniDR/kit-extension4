@@ -1,0 +1,20 @@
+{
+    "componentes": [
+        {
+            "archivo": "chat-capture.js",
+            "tag": "chat-capture"
+        },
+        {
+            "archivo": "codeinspector.js",
+            "tag": "codeinspector"
+        },
+        {
+            "archivo": "functions-code.js",
+            "tag": "functions-code"
+        },
+        {
+            "archivo": "code-editor-view.js",
+            "tag": "code-editor-view"
+        }
+    ]
+}
