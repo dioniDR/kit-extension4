@@ -15,6 +15,10 @@
         {
             "archivo": "code-editor-view.js",
             "tag": "code-editor-view"
+        },
+        {
+            "archivo": "editor-embed.js",
+            "tag": "editor-embed"
         }
     ]
 }
